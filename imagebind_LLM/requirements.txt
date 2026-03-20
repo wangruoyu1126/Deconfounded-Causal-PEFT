@@ -1,0 +1,8 @@
+fairscale
+sentencepiece
+Pillow
+opencv-python
+gradio
+tqdm
+autofaiss
+tensorboard
